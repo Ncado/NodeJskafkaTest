@@ -1,0 +1,17 @@
+{
+  "name": "node-kafka-poc",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:consumer": "node index.js"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "avsc": "^5.6.2",
+    "node-rdkafka": "^2.10.1"
+  }
+}
